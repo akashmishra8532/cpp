@@ -53,6 +53,3 @@ int main()
 //    ob2.putdata();
     return 0;
 }
-//#include <iostream>
-//#include<list>
-//using
